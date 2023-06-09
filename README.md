@@ -1,7 +1,7 @@
 # NCU-FPGA-Basys3
 ## Introduction
 
-南昌大学EDA实验课程，采用**Diligent Basys3**开发板进行开发，主要使用的语言是**Verilog**，采用的软件是**Vivado2019.1**
+南昌大学EDA实验课程，采用**Diligent Basys3**开发板进行开发，主要使用的语言是**Verilog**，采用的软件是**Vivado2019.1**(Vivado工程文件将会在期末后进行整理，请有兴趣的同学密切留意）
 
 本仓库主要包括七个实验，内容分别为：
 
